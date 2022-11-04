@@ -3,7 +3,7 @@
 <h3 align="center">C++ is Love,I am passionate about learning because learning is the art and i am the artist</h3>
 <h1 align="center">
 𝐇𝐄𝐋𝐋𝐎 EVERYONE! IN THIS 👉 <img src="/Earth.gif" width="24px">
-<img src= "https://www.icegif.com/wp-content/uploads/2022/01/icegif-543.gif" height="250px" width="200px" align="right">
+<img src= "https://www.icegif.com/wp-content/uploads/2022/01/icegif-543.gif" height="250px" width="250px" align="right">
 </h1>
 <br>
 
@@ -71,7 +71,7 @@
 <!-- connect section -->
 <h1 align="center">
 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="/Handshake.gif" width="24px">
-<img src= "/the_matrix_has_you.gif" height="240px" width="340px" align="right">
+<img src= "/the_matrix_has_you.webp" height="240px" width="340px" align="right">
 </h1>
 
 <p align="center">
