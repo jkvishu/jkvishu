@@ -19,9 +19,9 @@
 
 <!-- streak and trophies -->
 <p align="center">
-  <img height="120" width="110" src="WEBP/left.webp">
+  <img height="120" width="110" src="/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkvishu&" alt="jkvishu" />
-  <img height="120" width="110" src="WEBP/right.webp">
+  <img height="120" width="110" src="/right.webp">
 </p>
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=jkvishu&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/jkvishu)
@@ -30,7 +30,7 @@
 <hr>
 
 <!-- tools and github giant logo -->
-<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="WEBP/gold_cat.webp">
+<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="/gold_cat.webp">
 <br/>
 
 **𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒**
@@ -57,7 +57,7 @@
 
 <!-- github stats and graph -->
 <h1 align="center">
-<img height="30"src="GIF/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="GIF/sparkling-stars.gif">
+<img height="30"src="/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="/sparkling-stars.gif">
 </h1>
 
 <p align="center">
@@ -70,8 +70,8 @@
 
 <!-- connect section -->
 <h1 align="center">
-𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="GIF/Handshake.gif" width="24px">
-<img src= "WEBP/the_matrix_has_you.webp" height="240px" width="340px" align="right">
+𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="/Handshake.gif" width="24px">
+<img src= "/the_matrix_has_you.webp" height="240px" width="340px" align="right">
 </h1>
 
 <p align="center">
