@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://jkvishu.github.io/Personal-site/)
 <h1 align="center">Hi 👋, I'm Vishu Tyagi</h1>
 <h3 align="center">C++ is Love,I am passionate about learning because learning is the art and i am the artist</h3>
 <img align="center" alt="coding" width="500" src="https://thumbs.gfycat.com/EmotionalFamiliarEgg-max-1mb.gif">
