@@ -1,6 +1,7 @@
 <!-- intro hello world -->
 <h1 align="center">
 𝐇𝐄𝐋𝐋𝐎 EVERYONE! IN THIS 👉 <img src="/Earth.gif" width="24px">
+  <br>
 I'm Vishu Tyagi
 <img src= "https://www.icegif.com/wp-content/uploads/2022/01/icegif-543.gif" height="250px" width="250px" align="right">
 </h1>
