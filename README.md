@@ -15,7 +15,7 @@ I'm Vishu Tyagi
 - 👀 **Do you need C++ Guidance**
 - 🤝 **Helping hand for your open source project**
 - 👨‍💻 **Ask me about Web Development**
-- ⚡ **Best Quote : "Everyone in this world should learn to code because it teache's you how to think"**
+- ⚡ **Best Quote : "Everyone in this World should learn how to program because it teaches you how to think"**
 <br>
 
 <hr>
