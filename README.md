@@ -2,7 +2,7 @@
 <h1 align="center">
 𝐇𝐄𝐋𝐋𝐎 EVERYONE! IN THIS 👉 <img src="/Earth.gif" width="24px">
   <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I'm Vishu Tyagi
+&nbsp; &nbsp; I'm Vishu Tyagi
 
 </h1>
 <h3 align="center">I am passionate about learning because learning is the art and I am the artist, and C++ is my love.</h3>
