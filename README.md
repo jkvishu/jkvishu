@@ -25,9 +25,9 @@ I'm Vishu Tyagi
   <img height="120" width="110" src="/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkvishu&" alt="jkvishu" />
   <img height="120" width="110" src="/right.webp">
+</p>
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=jkvishu&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/jkvishu)
-</p>
 <br>
 
 <hr>
