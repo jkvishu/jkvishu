@@ -2,14 +2,15 @@
 <h1 align="center">
 𝐇𝐄𝐋𝐋𝐎 EVERYONE! IN THIS 👉 <img src="/Earth.gif" width="24px">
   <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;I'm Vishu Tyagi
-<img src= "https://www.icegif.com/wp-content/uploads/2022/01/icegif-543.gif" height="250px" width="250px" align="right">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;I'm Vishu Tyagi
+
 </h1>
 <h3 align="center">I am passionate about learning because learning is the art and I am the artist, and C++ is my love.</h3>
 <br>
 
 - 🌱 **I’m currently learning **React framework and Blockchain Development**
 - 👨‍💻 **All of my projects are available at [https://github.com/jkvishu?tab=repositories](https://github.com/jkvishu?tab=repositories)**
+<img src= "https://www.icegif.com/wp-content/uploads/2022/01/icegif-543.gif" height="250px" width="250px" align="right">
 - 👀 **Do you need C++ Guidance**
 - 🤝 **Helping hand for your open source project**
 - 👨‍💻 **Ask me about Web Development**
