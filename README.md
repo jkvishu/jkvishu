@@ -124,6 +124,6 @@ I'm Vishu Tyagi
 
 <hr>
 <p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=jkvishu&label=Profile%20views&color=fa1b87&style=flat"> </p>
-### Wanna Help out?
+<!-- ### Wanna Help out?
   
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 the 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 the 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! -->
