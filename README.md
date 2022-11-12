@@ -10,7 +10,7 @@ I'm Vishu Tyagi
 <img src= "https://www.icegif.com/wp-content/uploads/2022/01/icegif-543.gif" height="250px" width="250px" align="right">
 <br>
 
-- 🌱 **I’m currently learning **React framework and Blockchain Development**
+- 🌱 **I’m currently learning React framework and Blockchain Development**
 - 👨‍💻 **All of my projects are available at [https://github.com/jkvishu?tab=repositories](https://github.com/jkvishu?tab=repositories)**
 - 👀 **Do you need C++ Guidance**
 - 🤝 **Helping hand for your open source project**
