@@ -1,6 +1,6 @@
 <!-- intro hello world -->
 <h1 align="center">
-𝐇𝐄𝐋𝐋𝐎 EVERYONE! IN THIS 👉 <img src="https://media3.giphy.com/media/wa8uMtV7bmdGTGGmD7/giphy.gif?cid=790b761195afde1bb7dd7bc81e6b40c6e02a7e629b9b48b2&rid=giphy.gif&ct=g" width="28px">
+𝐇𝐄𝐋𝐋𝐎 EVERYONE! IN THIS 👉 <img src="https://bestanimations.com/media/tiny-earth/1367468009earth-spinning-rotating-animation-10.gif" width="28px">
   <br>
 I'm Vishu Tyagi
 
