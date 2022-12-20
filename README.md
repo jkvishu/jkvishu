@@ -5,7 +5,7 @@
 I'm Vishu Tyagi
 
 </h1>
-<h3 align="center">I am passionate about learning because learning is the art and I am the artist, and C++ is my love.</h3>
+<h3 align="center">In addition to learning new technologies, I am a keen learner, and C++ is my favorite language.</h3>
 
 <img src= "https://www.icegif.com/wp-content/uploads/2022/01/icegif-543.gif" height="250px" width="250px" align="right">
 <br>
