@@ -3,7 +3,7 @@
 𝐇𝐄𝐋𝐋𝐎 EVERYONE! IN THIS 👉 <img src="https://bestanimations.com/media/tiny-earth/1367468009earth-spinning-rotating-animation-10.gif" width="28px">
   <br>
 I'm Vishu Tyagi
-
+  <br>
 </h1>
 <h3 align="center">In addition to learning new technologies, I am a keen learner, and C++ is my favorite language.</h3>
 
@@ -21,6 +21,7 @@ I'm Vishu Tyagi
 <hr>
 
 <!-- streak and trophies -->
+<p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=jkvishu&label=Profile%20views&color=fa1b87&style=flat"> </p>
 <p align="center">
   <img height="120" width="110" src="/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkvishu&" alt="jkvishu" />
@@ -124,7 +125,7 @@ I'm Vishu Tyagi
 <br/>
 
 <hr>
-<p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=jkvishu&label=Profile%20views&color=fa1b87&style=flat"> </p>
+
 <!-- ### Wanna Help out?
   
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 the 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! -->
