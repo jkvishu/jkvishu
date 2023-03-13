@@ -102,12 +102,14 @@ I'm Vishu Tyagi
 </p>
 <br/>
 
-<p align="center">
+<h1 align="center">Coding Profiles</h1>
+<p >
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/www_vishutyagi8" target="_blank">
     <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"/></code>
   </a>
 
-  <a href="https://www.codechef.com/users/jkvishu" target="_blank">
+  <a href="https://www.codechef.com/users/vishu_tyagi" target="_blank">
     <code><img height="50" width="50" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png"/></code>
   </a>
   
