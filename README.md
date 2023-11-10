@@ -12,7 +12,7 @@ I'm Vishu Tyagi
 
 - 🌱 **I’m currently learning React framework and Blockchain Development**
 - 👨‍💻 **All of my projects are available at [https://github.com/jkvishu?tab=repositories](https://github.com/jkvishu?tab=repositories)**
-- 👀 **Do you need any tech Guidance**
+- 👀 **Do you need any tech Guidance** 
 - 🤝 **Helping hand for your open source project**
 - 👨‍💻 **Ask me about Web Development**
 - ⚡ **Best Quote : "Everyone in this World should learn how to program because it teaches you how to think"**
